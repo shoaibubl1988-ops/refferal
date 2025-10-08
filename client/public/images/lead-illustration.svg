@@ -1,0 +1,33 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#F8FAFC"/>
+  
+  <!-- Building/Company -->
+  <rect x="50" y="80" width="60" height="80" rx="4" fill="#3B82F6" opacity="0.1"/>
+  <rect x="50" y="80" width="60" height="20" rx="2" fill="#3B82F6"/>
+  <rect x="55" y="110" width="15" height="15" rx="2" fill="#3B82F6" opacity="0.6"/>
+  <rect x="75" y="110" width="15" height="15" rx="2" fill="#3B82F6" opacity="0.6"/>
+  <rect x="55" y="135" width="15" height="15" rx="2" fill="#3B82F6" opacity="0.6"/>
+  <rect x="75" y="135" width="15" height="15" rx="2" fill="#3B82F6" opacity="0.6"/>
+  
+  <!-- Person -->
+  <circle cx="180" cy="100" r="20" fill="#3B82F6" opacity="0.1"/>
+  <circle cx="180" cy="100" r="15" fill="#3B82F6" opacity="0.3"/>
+  <circle cx="180" cy="100" r="8" fill="#3B82F6"/>
+  <rect x="170" y="120" width="20" height="30" rx="10" fill="#3B82F6" opacity="0.3"/>
+  
+  <!-- Connection line -->
+  <path d="M110 120 Q145 100 160 100" stroke="#3B82F6" stroke-width="3" fill="none" opacity="0.6"/>
+  
+  <!-- Money/Currency symbols -->
+  <circle cx="220" cy="60" r="15" fill="#10B981" opacity="0.1"/>
+  <text x="220" y="67" text-anchor="middle" fill="#10B981" font-family="Arial" font-size="12" font-weight="bold">$</text>
+  
+  <circle cx="250" cy="80" r="15" fill="#F59E0B" opacity="0.1"/>
+  <text x="250" y="87" text-anchor="middle" fill="#F59E0B" font-family="Arial" font-size="12" font-weight="bold">€</text>
+  
+  <circle cx="220" cy="100" r="15" fill="#8B5CF6" opacity="0.1"/>
+  <text x="220" y="107" text-anchor="middle" fill="#8B5CF6" font-family="Arial" font-size="12" font-weight="bold">د.إ</text>
+  
+  <circle cx="250" cy="120" r="15" fill="#EF4444" opacity="0.1"/>
+  <text x="250" y="127" text-anchor="middle" fill="#EF4444" font-family="Arial" font-size="12" font-weight="bold">ر.س</text>
+</svg>
